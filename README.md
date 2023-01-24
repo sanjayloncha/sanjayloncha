@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Backend.  
 
 - 🔭 I’m good at Data Structure and Algorithms  .
-- ✍️ I’m having spend more than 1300 hours on solving DSA questions and i have solved more than 350+ good quality questions  .
+- ✍️ I’m having spend more than 1300+ hours on solving DSA questions and i have solved more than 350+ good quality questions  .
   
 - ⚡ Fun fact: I use spaces over tabs  
   
