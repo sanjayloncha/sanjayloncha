@@ -33,14 +33,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sanjayloncha" target="_blank">
@@ -63,7 +55,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanjayloncha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/sanjayloncha/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sanjay streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayloncha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayloncha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
