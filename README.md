@@ -1,20 +1,24 @@
 <div align="center" style="border-radius: 5px" >
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" style="width:80%" style="border-radius: 5px" />
-</div>  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+</p>
+
+
+<h2 align="center">Hi, I'm Sanjay 👋</h2>
+
+<h4 align="center">A passionate Frontend Developer with 2+ years of hands-on experience in building modern, scalable web applications.</h4>
   
 
-### <div align="center">I'm Sanjay, a full-stack developer👨‍💻 learning remotely since 2021 🚀</div>  
-  
+<div align="left">
 
-- ❓ Ask me about anything related to Javascript and ReactJs  
-  
-- 🌱 I’m currently learning Backend.  
+- ❓ Ask me about anything related to JavaScript and React.js  
+- 🌱 I’m currently learning Backend  
+- 🔭 I'm good at Data Structures and Algorithms  
+- ✍️ I’ve spent over **1300+ hours** solving DSA and solved **500+ quality problems**  
+- ⚡ Fun fact: I use **spaces over tabs**  
 
-- 🔭 I’m good at Data Structure and Algorithms  .
-- ✍️ I’m having spend more than 1300+ hours on solving DSA questions and i have solved more than 350+ good quality questions  .
-  
-- ⚡ Fun fact: I use spaces over tabs  
-  
+</div>
 
 <br/>  
 
